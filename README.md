@@ -1,4 +1,5 @@
-## Hi there 👋
+```markdown
+# Hi there 👋, I'm Chandan Pal
 
 Hi, I’m a passionate developer focused on building intelligent browser extensions, full-stack web apps, and real-time systems.
 
