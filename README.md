@@ -50,7 +50,7 @@ I'm always open to collaborating on **innovative, impactful projects**.
 Feel free to connect or explore my repositories!
 
 <!-- Optional Links (Update with your own URLs) -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/CP025)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=aboutdotme&logoColor=white)](https://yourportfolio.com)
 
